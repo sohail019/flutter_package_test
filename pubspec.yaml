@@ -36,6 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   equatable: ^2.0.5
   envied: ^1.1.1
+  build_runner: ^2.5.4
+  envied_generator: ^1.1.1
 
 dev_dependencies:
   flutter_test:
